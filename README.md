@@ -1,6 +1,5 @@
 # Budget_Tracker_App
 
-# Budget Tracker App
 
 This is a simple budget tracker program created using Python. It allows users to manage their budget by adding expenses and viewing budget details.
 
